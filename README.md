@@ -1,97 +1,104 @@
-<h1 align="center">EAC, BattlEye & Easy Anti-Cheat HWID Ban Fix — Bypass All HWID Bans (2025)</h1>
-<p align="center">Blocked by an HWID ban in your favorite game? Use our all-in-one HWID spoofer to safely bypass bans from Easy Anti-Cheat, BattlEye, and EAC. Fast. Free. Undetected.</p>
+<h1 align="center">HWID Ban Fix for EAC, BattlEye, Vanguard, FACEIT & Easy Anti-Cheat (2025 Spoofer)</h1>
+<p align="center">Banned from your favorite game? Use our all-in-one HWID spoofer to safely bypass hardware bans from Easy Anti-Cheat, BattlEye, Vanguard (Valorant), and FACEIT — completely free and undetected.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Tested%20%26%20Working-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bypasses-EAC%20%7C%20BattlEye%20%7C%20Easy%20Anti-Cheat-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Covers-EAC%20%7C%20BattlEye%20%7C%20Vanguard%20%7C%20FACEIT-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Updated-2025-orange?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b8XyEwxpccE" target="_blank">
-    <img src="https://i.ytimg.com/vi/b8XyEwxpccE/hqdefault.jpg" alt="Universal HWID Ban Fix Video Thumbnail" width="320" height="180" />
+    <img src="https://i.ytimg.com/vi/b8XyEwxpccE/hqdefault.jpg" alt="HWID Ban Fix Video Thumbnail" width="320" height="180" />
     <br><strong>WATCH THE FULL VIDEO GUIDE</strong>
   </a>
 </p>
 
 <hr />
 
-<h2>🚫 What Is an HWID Ban?</h2>
-<p>An HWID ban, or Hardware ID ban, blocks your entire PC — not just your account. Anti-cheat systems like <strong>Easy Anti-Cheat (EAC)</strong>, <strong>BattlEye</strong>, and <strong>Epic's Easy Anti-Cheat</strong> scan your hardware and create a fingerprint of your system. If you're flagged, they ban that fingerprint.</p>
+<h2>🔎 What Is an HWID Ban?</h2>
+<p>An HWID ban (hardware ID ban) blocks your computer from playing a game, even if you change accounts. Anti-cheats like <strong>Vanguard (Valorant)</strong>, <strong>FACEIT</strong>, <strong>Easy Anti-Cheat (EAC)</strong>, and <strong>BattlEye</strong> scan your system and blacklist your hardware IDs.</p>
 
-<p>Even if you make a new account or reinstall the game, the ban stays in place. That’s where our <strong>HWID Spoofer</strong> comes in — it changes your hardware IDs so you can play again without being detected.</p>
-
-<hr />
-
-<h2>🎮 Games That Use EAC, BattlEye, and Easy Anti-Cheat</h2>
-<p>This HWID fix works for all major games using these anti-cheats:</p>
-
-<ul>
-  <li><strong>Easy Anti-Cheat:</strong> The Finals, Fortnite, Rust, Dead by Daylight, Apex Legends</li>
-  <li><strong>BattlEye:</strong> PUBG, DayZ, Escape from Tarkov, Rainbow Six Siege, Arma 3</li>
-  <li><strong>EAC (Epic's EAC):</strong> Fall Guys, Elden Ring, Warface, Halo: MCC</li>
-</ul>
-
-<p>If your game uses any of these, and you're HWID banned, this guide is for you.</p>
+<p>This means you can’t just reinstall or make a new account. You need to spoof your HWID — and that’s exactly what our tool does.</p>
 
 <hr />
 
-<h2>⚙️ How Our HWID Spoofer Fix Works (Step-by-Step)</h2>
-<p>Our all-in-one tool spoofs key hardware components that anti-cheat systems use to track you:</p>
+<h2>🎮 Supported Anti-Cheats & Games</h2>
+<p>This guide and tool work across all major competitive games and anti-cheat systems:</p>
 
 <ul>
-  <li><strong>Disk Drive Serial Numbers</strong></li>
-  <li><strong>MAC Address</strong></li>
-  <li><strong>Motherboard ID</strong></li>
-  <li><strong>CPU & GPU IDs</strong></li>
-  <li><strong>BIOS UUIDs</strong></li>
+  <li><strong>🔵 Easy Anti-Cheat (EAC):</strong> The Finals, Rust, Fortnite, Apex Legends, Dead by Daylight</li>
+  <li><strong>🟡 BattlEye:</strong> PUBG, Rainbow Six Siege, Escape from Tarkov, DayZ, Arma 3</li>
+  <li><strong>🔴 Vanguard:</strong> Valorant (Riot Games' kernel-level anti-cheat)</li>
+  <li><strong>🟣 FACEIT Anti-Cheat:</strong> CS:GO, CS2 competitive FACEIT ladders</li>
+  <li><strong>🟢 Epic's EAC:</strong> Fall Guys, Elden Ring, Warface, more</li>
 </ul>
 
-<p>These spoofed values make your PC look like a brand-new, unbanned machine — even to advanced anti-cheats like BattlEye and EAC.</p>
+<p>Whether you’ve been banned from one or several, this is the only HWID spoofer you need.</p>
 
-<h3>✨ What Makes It Different?</h3>
+<hr />
+
+<h2>⚙️ How the HWID Spoofer Works</h2>
+<p>Anti-cheats ban specific hardware components. Our tool replaces those values to make your PC look completely different:</p>
+
 <ul>
-  <li><strong>Universal Compatibility:</strong> Works with all major anti-cheat systems — no separate spoofers needed.</li>
-  <li><strong>Beginner-Friendly:</strong> Designed for non-tech users. Just follow the guide, click, and go.</li>
-  <li><strong>Updated Constantly:</strong> We patch it quickly after anti-cheat updates to stay safe and undetected.</li>
-  <li><strong>No Cost:</strong> 100% free and open-source. No locked features, no bait-and-switch.</li>
+  <li>✔️ MAC Address</li>
+  <li>✔️ Motherboard Serial</li>
+  <li>✔️ Drive Serial Numbers</li>
+  <li>✔️ BIOS UUID & Volume ID</li>
+  <li>✔️ CPU & GPU IDs</li>
+</ul>
+
+<p>Once spoofed, your PC is no longer linked to the banned HWID. That means a clean slate, and a fresh chance to play.</p>
+
+<h3>💡 What Makes Our Spoofer Different?</h3>
+<ul>
+  <li><strong>✔️ Universal:</strong> Works with all anti-cheats — no separate spoofers needed.</li>
+  <li><strong>✔️ Beginner-Friendly:</strong> Simple guide, easy install, step-by-step instructions.</li>
+  <li><strong>✔️ Free Forever:</strong> No trials, paywalls, or locked features. Always 100% free.</li>
+  <li><strong>✔️ Updated Weekly:</strong> We patch quickly to stay undetected after every anti-cheat update.</li>
 </ul>
 
 <hr />
 
-<h2>📋 How to Bypass Your HWID Ban (EAC, BattlEye, Easy Anti-Cheat)</h2>
+<h2>📋 Step-by-Step: How to Bypass Your HWID Ban</h2>
 
 <ol>
-  <li><strong>Download the Spoofer:</strong> Use the official link to get the latest version. Always verify it’s from us to avoid malware.</li>
-  <li><strong>Run the Tool:</strong> Follow the step-by-step setup. We’ve included screenshots, written instructions, and a full video tutorial.</li>
-  <li><strong>Create a New Account:</strong> Use a new game account to play. Your spoofed PC won’t be recognized or banned.</li>
-  <li><strong>Play Again:</strong> You’re now bypassing the HWID ban. Go enjoy your favorite game!</li>
+  <li><strong>Download the Spoofer:</strong> Use the verified download link from our GitHub or website.</li>
+  <li><strong>Run the Tool:</strong> It will automatically spoof key hardware values used by anti-cheat detection systems.</li>
+  <li><strong>Reinstall the Game (Optional):</strong> Helps avoid leftover logs or tracking files.</li>
+  <li><strong>Create a New Account:</strong> Register a new account for the game you were banned from.</li>
+  <li><strong>Play Again:</strong> You’re unbanned and invisible to EAC, BattlEye, Vanguard, and FACEIT.</li>
 </ol>
 
-<p><strong>Important:</strong> For games like Rust, PUBG, or The Finals — a clean reinstall of the game and a new account is strongly recommended.</p>
+<p><strong>Note:</strong> For FACEIT and Vanguard, always spoof before launching the anti-cheat or game launcher.</p>
 
 <hr />
 
-<h2>🎥 Video: HWID Ban Fix for EAC, BattlEye & Easy Anti-Cheat</h2>
-<p align="center">Watch the full tutorial for a step-by-step visual guide. Perfect if you're new to spoofing or want to follow along.</p>
+<h2>🎥 Video Tutorial</h2>
+<p align="center">Need a visual guide? This video shows the full process — from download to unbanned gameplay.</p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b8XyEwxpccE" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20Video-Complete%20HWID%20Bypass%20Guide-red?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/Watch%20Step-by-Step%20Video-Click%20Here-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
 <hr />
 
-<h2>🔒 Is It Safe?</h2>
-<p>Yes. Our tool is open-source and clean. No spyware, no background processes, no hidden installations. It runs once, changes your HWID, and closes. We also don’t collect any data — your privacy is protected.</p>
-
-<h2>💬 Got Questions?</h2>
-<p>Join our Discord or support page for help. Whether you're fixing a Rust HWID ban, PUBG block, or a Fortnite EAC ban, someone in the community has your back.</p>
+<h2>🔐 Safety & Privacy</h2>
+<p>This HWID spoofer is safe and private. No spyware, no background tracking, no unnecessary files. It doesn’t run in the background or collect data — it just spoofs and exits.</p>
 
 <hr />
 
-<h2>🏁 Final Thoughts — Get Back in the Game</h2>
-<p>HWID bans suck — but they’re not the end. With our spoofer, you can bypass bans from <strong>Easy Anti-Cheat</strong>, <strong>BattlEye</strong>, and <strong>EAC</strong> with one tool. No need to buy new hardware or reinstall Windows.</p>
+<h2>🛑 Stay Unbanned — Play Smart</h2>
+<p>Our tool hides your HWID, but it’s up to you to play legit. Don’t install cheats or macros that can trigger anti-cheat systems again. Getting banned twice makes things harder to fix.</p>
 
-<p><strong>Play smarter, stay clean, and enjoy gaming again — without limits.</strong></p>
+<p><strong>✔️ Spoof once, stay clean, and enjoy your games.</strong></p>
+
+<hr />
+
+<h2>🏁 Final Thoughts</h2>
+<p>If you're HWID banned in any major competitive game — whether it's Valorant, Rust, Tarkov, CS2 FACEIT, or PUBG — our spoofer is your clean way back. No more error messages. No more blocked accounts. Just you, your PC, and a fresh start.</p>
+
+<p><strong>Ready to play again? Spoof now. Unban your PC. Win your game.</strong></p>
